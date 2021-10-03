@@ -7,6 +7,8 @@ public class Third {
 
         // this is a self practice as asked by professor
 
+        // adding now some more text for another commit
+
     }
 
 
