@@ -9,6 +9,8 @@ public class Third {
 
         // adding now some more text for another commit
 
+        // a third edit and commit just for practice
+
     }
 
 
